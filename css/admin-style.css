@@ -1,0 +1,12 @@
+#location_address .form-table th, #location_details .form-table th{
+	padding: 20px 0 10px;
+}
+#location_address .form-table input, #location_details .form-table input{
+	width: 100%;
+}
+.mupload_img_holder > img {
+    height: auto !important;
+    width: auto !important;
+}
+.mupload_img_holder{}
+.at-delete_image_button,.at-upload_image_button{ cursor: pointer;}

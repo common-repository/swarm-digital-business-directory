@@ -1,0 +1,81 @@
+.archive .gm-location-container{
+}
+
+.gm-location-excerpt {
+    border-bottom: 1px solid #CCCCCC;
+    margin-bottom: 10px;
+    padding-bottom: 10px;
+}
+.col-left {
+    float: left;
+}
+.col-right {
+    float: right;
+}
+.single-page #map-canvas{
+    width: 100%; 
+    height:300px; 
+}
+.single-page #nav-single {
+    float: left;
+    margin: 10px 1.5%;
+    width: 97%;
+}
+.single-page #nav-single span.nav-previous{
+    float: left;
+}
+.single-page #nav-single span.nav-next{
+    float: right;
+}
+#map-canvas{
+    margin: 0 0 15px 0;
+}
+#map-canvas img {
+    max-width: none;
+}
+.gm-location-deetails {
+    float: left;
+    margin-top: 10px;
+    padding: 10px 0;
+    width: 100%;
+}
+.gm-location-deetails .detail {
+    float: left;
+    padding: 1%;
+    width: 48%;
+}
+.gm-location-deetails .detail span {
+    font-weight: bold;
+    margin-right: 10px;
+}
+ul#locations-list {
+    float: left;
+    padding: 0;
+    width: 100%;
+}
+ul#locations-list li {
+    display: inline-block;
+    float: left;
+    list-style: none outside none;
+    margin: 0 2%;
+    width: 96%;
+}
+.single-gm_location aside#sidebar {
+    width: 30%;
+}
+.single-gm_location #main.col-left{
+    width: 70%;
+    padding: 0;
+}
+.location-small-container {
+    float: left;
+    margin: 2.5%;
+    width: 20%;
+}
+.region-row {
+    float: left;
+    width: 100%;
+}
+.map-info-window{
+    width: 200px;
+}
